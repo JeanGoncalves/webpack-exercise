@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/JeanGoncalves/webpack-exercise/issues"
   },
-  "homepage": "https://github.com/JeanGoncalves/webpack-exercise#readme"
+  "homepage": "https://github.com/JeanGoncalves/webpack-exercise#readme",
+  "devDependencies": {
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  }
 }
